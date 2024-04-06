@@ -1,1 +1,19 @@
+.post {
+  border: 1px solid grey;
+  padding: 1rem;
+}
+#root {
+  padding-top: 100px;
 
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-id {
+  font-weight: 700;
+}
