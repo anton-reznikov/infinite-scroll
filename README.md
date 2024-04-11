@@ -1,1 +1,1 @@
-## an example of implementing infinite scrool in your app
+## an example of implementing infinite scrool into your app
