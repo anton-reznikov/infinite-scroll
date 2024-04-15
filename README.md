@@ -1,1 +1,1 @@
-## an example of implementing infinite scrool into your app
+## native solution of infintite scroll
